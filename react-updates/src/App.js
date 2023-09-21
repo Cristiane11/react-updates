@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Footer from './components/Footer/Footer'
 import './App.css';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Cristiane Abreu</h1>
       </header>
+      <Footer/>
     </div>
   );
 }
