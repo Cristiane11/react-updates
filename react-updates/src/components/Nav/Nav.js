@@ -5,10 +5,10 @@ function Nav() {
     <div className="#">
        <nav class='header'>
     <ul>
-      <li><a class='home' href='#top'>FAVORITE FONTS</a></li>
-      <li><a class='pagelink' href='#serif'>SERIF</a></li>
-      <li><a class='pagelink' href='#sans'>SANS-SERIF</a></li>
-      <li><a class='pagelink' href='#mono'>MONOSPACED</a></li>
+      <li><a class='home' href='#top'>Cristiane</a></li>
+      <li><a class='pagelink' href='#serif'>Skills</a></li>
+      <li><a class='pagelink' href='#sans'>Profile</a></li>
+      <li><a class='pagelink' href='#mono'>Contact</a></li>
     </ul>
   </nav>
      
