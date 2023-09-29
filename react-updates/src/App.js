@@ -1,15 +1,13 @@
 import logo from './logo.svg';
 import Home from './components/Home/Home';
 import Footer from './components/Footer/Footer';
-import Contact
- from './components/Contact/Contact';
-
+import Contact from './components/Contact/Contact';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="contacts">
         <h1>Cristiane Abreu</h1>
         < Contact 
                 img="./images/mr-whiskerson.png" 
