@@ -11,7 +11,7 @@ export default [
     {
         id: 2,
         title: "Netflix",
-        description: "Created white ReactJs, HTML, CSS, ",
+        description: "Created white ReactJs, HTML, CSS,jsx ",
         technologies: 136,
         coverImg: "katie-zaferes.png",
         link: "Online",
