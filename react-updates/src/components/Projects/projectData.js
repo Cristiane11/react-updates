@@ -4,7 +4,7 @@ export default [
         title: "AirBnb",
         description: "Created white ReactJs, HTML, CSS, ",
         technologies: 136,
-        coverImg: "katie-zaferes.png",
+        coverImg: "airbnb.png",
         link: "Online",
         
     },
@@ -13,7 +13,7 @@ export default [
         title: "Netflix",
         description: "Created white ReactJs, HTML, CSS,jsx ",
         technologies: 136,
-        coverImg: "katie-zaferes.png",
+        coverImg: "netflix.png",
         link: "Online",
        
     },
@@ -22,12 +22,12 @@ export default [
         title: "Affordable Website",
         description: "Created white ReactJs, HTML, CSS, ",
         technologies: 136,
-        coverImg: "katie-zaferes.png",
+        coverImg: "websitePro.png",
         link: "Online",
     },
     {
         id: 4,
-        title: "Sample",
+        title: "Meme",
         description: "Created white ReactJs, HTML, CSS, ",
         technologies: 136,
         coverImg: "katie-zaferes.png",
@@ -35,18 +35,11 @@ export default [
     },
     {
         id: 5,
-        title: "Sample2",
-        description: "Created white ReactJs, HTML, CSS, ",
-        technologies: 136,
-        coverImg: "katie-zaferes.png",
-        link: "Online",
-    },
-    {
-        id: 6,
-        title: "Sample3",
+        title: "Travel",
         description: "Created white ReactJs, HTML, CSS, ",
         technologies: 136,
         coverImg: "katie-zaferes.png",
         link: "Online",
     }
+   
 ]
