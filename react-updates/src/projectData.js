@@ -30,7 +30,7 @@ export default [
         title: "Meme",
         description: "Created white ReactJs, HTML, CSS, ",
         technologies: 136,
-        coverImg: "katie-zaferes.png",
+        coverImg: "websitePro.png",
         link: "Online",
     },
     {
@@ -38,7 +38,7 @@ export default [
         title: "Travel",
         description: "Created white ReactJs, HTML, CSS, ",
         technologies: 136,
-        coverImg: "katie-zaferes.png",
+        coverImg: "websitePro.png",
         link: "Online",
     }
    
