@@ -4,7 +4,7 @@ import './Project.css'
 export default function Project(props){
     return(
         <div className="contact-card">
-                <img src={`../images/${props.coverImage}`} alt="cover_image"className="project-image" />
+                <img src={`../images/${props.coverImage}`} className="project-image" />
                 <h3>{props.title}</h3>
                 <div className="info-group">
                     <h2>{props.technologies}</h2>  
