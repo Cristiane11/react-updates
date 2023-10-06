@@ -1,22 +1,21 @@
 import Footer from './components/Footer/Footer';
 import projectData from './projectData';
 import Project from './components/Projects/Project';
+//import Nav from './components/Nav/Nav';
 import './App.css';
 
 function App() {
   const projectsCard = projectData.map(project=>{
     return <Project 
-    title={project.title}
-    technologies={project.technologies}
-    coverImg={project.coverImg}/> 
+        {...project}
+    /> 
   })
   return (
     <div className="App">
-      <header className="contacts">
-      </header>
-      <body>
+     
+      <section className="projects-list">
         {projectsCard}
-      </body>
+      </section>
       <Footer/>
     </div>
   );
