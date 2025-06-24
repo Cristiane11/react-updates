@@ -1,5 +1,5 @@
 //Project
-import React from 'react';
+/*import React from 'react';
 
 
 export default function Project(props){
@@ -40,4 +40,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/

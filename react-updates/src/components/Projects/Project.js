@@ -4,11 +4,14 @@ import projectData from './projectData';
 
 export default function Project(){
     return(
-        <div>
-            <section>
+        <div className="#">
+            <section >
                 {projectData.map(item=>(
                 <p key={item.id}>
                 {item.title} 
+                {item.description} 
+                {item.coverImg} 
+                {item.link} 
                 </p>  
             ))};
             </section> 
