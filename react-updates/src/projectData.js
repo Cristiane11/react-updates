@@ -1,4 +1,4 @@
-export default [
+const projects = [
     {
         id: 1,
         title: "AirBnb",
@@ -42,4 +42,5 @@ export default [
         link: "Online",
     }
    
-]
+];
+export default projects;

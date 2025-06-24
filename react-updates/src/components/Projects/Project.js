@@ -1,12 +1,12 @@
 import React from 'react';
-import projectData from './projectData';
+import projects from './projectData';
 
 
 export default function Project(){
     return(
         <div className="#">
             <section >
-                {projectData.map(item=>(
+                {projects.map(item=>(
                 <p key={item.id}>
                 {item.title} 
                 {item.description} 
